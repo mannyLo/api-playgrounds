@@ -1,2 +1,2 @@
-# nytimes-api
-Playground using NYTimes API
+# API Playgrounds
+Playground using NYTimes API and Today in History API
